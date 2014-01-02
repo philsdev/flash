@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sounds title="Calls" titleBgColor="CCCCCC" bgColor="EEEEEE" clipPath="clips/">
+	<column>
+		<heading label="Hog Calls" />
+		<clip label="come on, pig" file="come-on-pig.mp3" />
+		<clip label="come on, piggy" file="come-on-piggy.mp3" />
+		<clip label="freddy" file="freddy.mp3" />
+		<clip label="Freddy" file="freddy-loud.mp3" />
+		<clip label="FRED" file="fred.mp3" />
+		<clip label="piggy" file="piggy.mp3" />
+		<clip label="piggy piggy piggy" file="piggy-piggy-piggy.mp3" />
+		<clip label="POW" file="pow.mp3" />
+		<clip label="scream 1" file="scream-1.mp3" />
+		<clip label="scream 2" file="scream-2.mp3" />
+		<clip label="soooo wuh" file="soo-wuh.mp3" />
+		<clip label="soooooooo wee" file="soo-wee.mp3" />
+		<clip label="squeal (short)" file="squeal-1.mp3" />
+		<clip label="squeal (med)" file="squeal-2.mp3" />
+		<clip label="squeal (long)" file="squeal-3.mp3" />
+		<clip label="woooooooo eee" file="woo-eee.mp3" />
+		<clip label="whey" file="whey.mp3" />
+	</column>
+</sounds>
