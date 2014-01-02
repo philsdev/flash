@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sounds title="Charlie Sheen Rants" titleBgColor="CCCCCC" bgColor="EEEEEE" clipPath="clips/">
+	<column>
+		<heading label="Today Show" />
+		<clip label="3 mil an episode" file="3-mil-an-episode.mp3" />
+		<clip label="and, uh" file="and-uh.mp3" />
+		<clip label="can't process me" file="cant-process-me.mp3" />
+		<clip label="I don't expect them to" file="i-dont-expect-them-to.mp3" />
+		<clip label="man of my word" file="man-of-my-word.mp3" />
+		<clip label="not angry, I'm passionate" file="not-angry-passionate.mp3" />
+		<clip label="people can't figure me out" file="people-cant-figure-me-out.mp3" />
+		<clip label="put me through" file="put-me-through.mp3" />
+		<clip label="rock star from Mars" file="rock-star-from-mars.mp3" />
+		<clip label="take it or leave it" file="take-it-or-leave-it.mp3" />
+		<clip label="tired of pretending" file="tired-of-pretending.mp3" />
+		<clip label="underpaid right now" file="underpaid-right-now.mp3" />
+	</column>
+</sounds>

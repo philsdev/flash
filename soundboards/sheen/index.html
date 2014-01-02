@@ -1,0 +1,25 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en">
+<head>
+	<title>Charlie Sheen Rants</title>
+	<script type="text/javascript" src="../scripts/swfobject.js"></script>
+	<script type="text/javascript">
+		function renderBoard() {
+			var flashvars = {};
+			var params = {};
+			params.wmode = "transparent";
+			var attributes = {};
+			var fileName = "../SoundBoard.swf";
+			var divId = "stage";
+			var swfWidth = "800";
+			var swfHeight = "600";
+			swfobject.embedSWF(fileName, divId, swfWidth, swfHeight, "9.0.0", "flash/expressInstall.swf", flashvars, params, attributes);
+		}
+	</script>
+</head>
+<body onload="javascript:renderBoard()">
+
+<div id="stage"></div>
+
+</body>
+</html>
